@@ -1,4 +1,4 @@
-# mahesh-dhakad
+calculator python program 
 
 
 
@@ -48,5 +48,4 @@
 
 
 
-
-THM{hello_my_friend}
+]
